@@ -1,0 +1,10 @@
+﻿.bmcs_vote_result {
+  float: right;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.bm_options a {
+  font-weight: bold;
+}
+

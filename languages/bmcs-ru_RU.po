@@ -1,0 +1,51 @@
+# BMCS localization file.
+# Copyright (C) 2009 BrainsMatch.com
+# This file is distributed under the same license as the bmcs package.
+# Constantine Poltyrev <shprota@gmail.com>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-01 06:00+0400\n"
+"PO-Revision-Date: 2009-07-01 06:00+0400\n"
+"Last-Translator: Constantine Poltyrev <shprota@gmail.com>\n"
+"Language-Team: Shprota <shprota@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bmcs.php:89
+msgid "My soulmates"
+msgstr "Мои единомышленники"
+
+#: bmcs.php:89
+#, php-format
+msgid "soulmates of %s"
+msgstr "Единомышленники %s"
+
+#: bmcs.php:119
+msgid "My opponents"
+msgstr "Мои оппоненты"
+
+#: bmcs.php:119
+#, php-format
+msgid "opponents of %s"
+msgstr "Оппоненты %s"
+
+#: bmcs.php:180 bmcs.php:205
+msgid "Agree"
+msgstr "Согласен"
+
+#: bmcs.php:181 bmcs.php:206
+msgid "Disagree"
+msgstr "Не согласен"
+
+#: bmcs_vote.php:30
+msgid "Failed to update proximity data"
+msgstr "Ошибка отсылки данных голосования"
+
+#: bmcs_vote.php:39
+msgid "Failed to insert vote into database: "
+msgstr "Ошибка базы данных"
